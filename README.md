@@ -1,1 +1,1 @@
-# web_template_1
+![Alt text](./screenshot.png?raw=true "Optional Title")
